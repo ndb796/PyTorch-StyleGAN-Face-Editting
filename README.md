@@ -1,1 +1,1 @@
-# PyTorch-StyleGAN-Generator
+### PyTorch StyleGAN Generator
