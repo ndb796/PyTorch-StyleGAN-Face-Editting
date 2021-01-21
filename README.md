@@ -13,3 +13,15 @@
 <img width="80%" src="https://user-images.githubusercontent.com/16822641/105273090-f61e1a00-5bdd-11eb-9fff-64f00335341b.png"/>
 
 #### Latent Vector Arithmetic
+
+* Smile / Neutral
+
+<img width="60%" src="https://user-images.githubusercontent.com/16822641/105320325-5fffe900-5c09-11eb-9946-c5eb7df717b9.png"/>
+
+* Smiling
+
+<img width="80%" src="https://user-images.githubusercontent.com/16822641/105321515-e668fa80-5c0a-11eb-8e09-31bc94f5d3d8.png"/>
+
+* Smiling-inverse
+
+<img width="80%" src="https://user-images.githubusercontent.com/16822641/105320052-0c8d9b00-5c09-11eb-9e44-b4aa4cf50858.png"/>
